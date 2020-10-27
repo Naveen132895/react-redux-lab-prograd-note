@@ -8,8 +8,8 @@
 
 /* Colors: https://coolors.co/4f075a-820f99-f6af09-f8c630 */
 :root {
-  --primary: #f8c630;
-  --primary-dark: #820f99;
+  --primary: #5f27cd;
+  --primary-dark: #5f27cd;
   --dark: #2b202f;
   --gray: #9f9ea0;
 }
@@ -34,7 +34,7 @@ h1 {
   background-color: var(--primary);
   color: #ffffff;
   text-align: center;
-  border-bottom: 3px solid #f6af09;
+  border-bottom: 3px solid #5f27cd;
 }
 
 h3 {
@@ -77,12 +77,12 @@ button {
   color: #ffffff;
   cursor: pointer;
   border-radius: 4px;
-  border-bottom: 3px solid #f6af09;
+  border-bottom: 3px solid #5f27cd;
 }
 
 button:hover {
   background: var(--primary-dark);
-  border-color: #4f075a;
+  border-color: #5f27cd;
 }
 
 form button {
